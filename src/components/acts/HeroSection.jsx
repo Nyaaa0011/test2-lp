@@ -81,7 +81,7 @@ export default function HeroSection() {
         className="relative z-10 text-center px-6"
       >
         <img
-          src="./images/logo-haru.png"
+          src="./images/logo-haru.webp"
           alt={BRAND.name}
           className="w-56 md:w-72 lg:w-80 h-auto mx-auto mb-8"
         />

@@ -25,6 +25,6 @@ dist-ssr
 
 # Screenshots & dev assets
 *.png
-!public/images/*.png
+!public/images/*.webp
 comparison.html
 .playwright-mcp/

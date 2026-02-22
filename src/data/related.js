@@ -7,7 +7,7 @@ export const RELATED_PRODUCTS = [
     price: '¥3,200',
     features: ['トーンアップ', 'SPF35 PA+++', '保湿下地'],
     color: '#F5E6D3',
-    image: './images/product-primer.png',
+    image: './images/product-primer.webp',
   },
   {
     id: 'bloom-oil',
@@ -17,6 +17,6 @@ export const RELATED_PRODUCTS = [
     price: '¥2,400',
     features: ['美容オイル', 'ほんのり色づく', '就寝前ケア'],
     color: '#F4CFC6',
-    image: './images/product-lipoil.png',
+    image: './images/product-lipoil.webp',
   },
 ];

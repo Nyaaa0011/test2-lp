@@ -22,7 +22,7 @@ export const PRODUCTS = [
     ],
     category: 'foundation',
     badge: 'BEST SELLER',
-    image: './images/product-foundation.png',
+    image: './images/product-foundation.webp',
   },
   {
     id: 'water-bloom-lip',
@@ -47,6 +47,6 @@ export const PRODUCTS = [
     ],
     category: 'lip',
     badge: 'NEW',
-    image: './images/product-lip.png',
+    image: './images/product-lip.webp',
   },
 ];

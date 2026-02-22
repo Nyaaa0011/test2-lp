@@ -3,7 +3,7 @@ export const TECH_PRODUCTS = [
     id: 'foundation',
     name: 'Glow Veil Foundation',
     nameJa: 'グロウヴェール ファンデーション',
-    image: './images/product-foundation.png',
+    image: './images/product-foundation.webp',
     technologies: [
       {
         id: 'skin-melt',
@@ -38,7 +38,7 @@ export const TECH_PRODUCTS = [
     id: 'lip',
     name: 'Water Bloom Lip',
     nameJa: 'ウォーターブルーム リップ',
-    image: './images/product-lip.png',
+    image: './images/product-lip.webp',
     technologies: [
       {
         id: 'water-bloom-tint',
